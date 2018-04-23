@@ -3,6 +3,9 @@
     "ostream": "cpp",
     "bitset": "cpp",
     "iostream": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "ratio": "cpp",
+    "string": "cpp",
+    "stdexcept": "cpp"
   }
 }
